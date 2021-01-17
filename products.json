@@ -40,5 +40,12 @@
     "description": "Pimiento Verde Deshidratado Agrotécnica. Producido a partir de pimiento verde seleccionado, lavado, descorazonado, cortado y deshidratado.",
     "price": 22.0,
     "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/03/pimiento-verde-1.png"
+  },
+  {
+    "id": 7,
+    "title": "Pomelo Eco",
+    "description": "Producido a partir de pomelos enteros (Citrus paradis) seleccionados, lavados, cortados y deshidratados.",
+    "price": 13.8,
+    "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/04/POMELO-1.png"
   }
 ]
