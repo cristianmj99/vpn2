@@ -40,5 +40,13 @@
     "description": "Pimiento Verde Deshidratado Agrotécnica. Producido a partir de pimiento verde seleccionado, lavado, descorazonado, cortado y deshidratado.",
     "price": 22.0,
     "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/03/pimiento-verde-1.png"
+  },
+  {
+    "id": 7,
+    "title": "Limón",
+    "description": "Producido a partir de limones enteros. Limón deshidratado para utilizar en procesos productivos.",
+    "price": 13.6,
+    "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/03/limon-1.png"
   }
+  
 ]
