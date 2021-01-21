@@ -4,41 +4,41 @@
     "title": "Ajo copos",
     "description": "Producido a partir de ajo seleccionado, pelado, cortado y deshidratado.",
     "price": 20.5,
-    "imagelink": "https://imgur.com/j3syiCG"
+    "imagelink": "https://imgur.com/j3syiCG.png"
   },
   {
     "id": 2,
     "title": "AJO MINCED",
     "description": "Ajo Minced. Producido a partir de ajo seleccionado, pelado, cortado y deshidratado",
     "price": 25.7,
-    "imagelink": "https://imgur.com/ql05n27"
+    "imagelink": "https://imgur.com/ql05n27.png"
   },
   {
     "id": 3,
     "title": "Ajo Polvo",
     "description": "Ajo polvo Agrotécnica. Producido a partir de ajo seleccionado, pelado, cortado y deshidratado.",
     "price": 18.0,
-    "imagelink": "https://imgur.com/XQ3JJhJ"
+    "imagelink": "https://imgur.com/XQ3JJhJ.png"
   },
   {
     "id": 4,
     "title": "Cebolla Eco",
     "description": "Cebolla ecológica Agrotécnica. Cebolla procedente de agricultura ecológica, cortada y deshidratada.",
     "price": 40.0,
-    "imagelink": "https://imgur.com/wiZqTO2"
+    "imagelink": "https://imgur.com/wiZqTO2.png"
   },
   {
     "id": 5,
     "title": "Espinaca",
     "description": "Espinaca deshidratada Agrotécnica. Producido a partir de espinaca lavada, deshidratada y molturada.",
     "price": 30.0,
-    "imagelink": "https://imgur.com/w9r4wU6"
+    "imagelink": "https://imgur.com/w9r4wU6.png"
   },
   {
     "id": 6,
     "title": "Pimiento Verde",
     "description": "Pimiento Verde Deshidratado Agrotécnica. Producido a partir de pimiento verde seleccionado, lavado, descorazonado, cortado y deshidratado.",
     "price": 22.0,
-    "imagelink": "https://imgur.com/Y9u7WgZ"
+    "imagelink": "https://imgur.com/Y9u7WgZ.png"
   }
 ]
