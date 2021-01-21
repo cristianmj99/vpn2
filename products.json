@@ -4,21 +4,21 @@
     "title": "Ajo copos",
     "description": "Producido a partir de ajo seleccionado, pelado, cortado y deshidratado.",
     "price": 20.5,
-    "imagelink": "http://www.vegenat.es/wp-content/uploads/2019/03/ajo-copos-1.png"
+    "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/03/ajo-copos-1.png"
   },
   {
     "id": 2,
     "title": "AJO MINCED",
     "description": "Ajo Minced. Producido a partir de ajo seleccionado, pelado, cortado y deshidratado",
     "price": 25.7,
-    "imagelink": "http://www.vegenat.es/wp-content/uploads/2019/03/ajo-corte-especial-1.png"
+    "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/03/ajo-corte-especial-1.png"
   },
   {
     "id": 3,
     "title": "Ajo Polvo",
     "description": "Ajo polvo Agrotécnica. Producido a partir de ajo seleccionado, pelado, cortado y deshidratado.",
     "price": 18.0,
-    "imagelink": "http://www.vegenat.es/wp-content/uploads/2019/03/ajo-polvo-1.png"
+    "imagelink": "https://www.vegenat.es/wp-content/uploads/2019/03/ajo-polvo-1.png"
   },
   {
     "id": 4,
